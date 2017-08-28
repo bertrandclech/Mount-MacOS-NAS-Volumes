@@ -5,8 +5,8 @@ This project deals about automtic mount on NAS Volumes on MacOS clients
 NAS Volumes names must be set in scpt script
 
 This project contains two files :
-1- The script itself an scpt file to be added in /Users/Shared/scripts
-2- The plist file to be added on LauchAgents folder in homedir Library folder
+1. The script itself an scpt file to be added in /Users/Shared/scripts
+2. The plist file to be added on LauchAgents folder in homedir Library folder
 
 Some explanations :
 - the script will be launched at current user login
